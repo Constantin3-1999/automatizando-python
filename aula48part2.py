@@ -1,0 +1,21 @@
+"""
+Listas em Python 
+Tipo list - Mutável 
+Suporta vários valores de qualquer tipo 
+COnhecimentos reutilizáveis - índices e fatiamento
+Métodos úteis:
+..... append: adiciona um item ao final
+..... insert: adiciona um item no índice escolhido
+..... pop: Remove do final ou do índice escolhido
+..... del: apaga um índice
+..... clear: limpa a lista
+..... extend: estende a lista 
+..... + - concatena listas
+Create Read Update ...... Delete
+Criar, Ler, alterar, apagar = lista[i] (CRUD)
+"""
+lista_a = [1, 2, 3]
+lista_b = [4, 5, 6]
+lista_c = lista_a + lista_b
+lista_d = lista_a.extend(lista_b)
+print(lista_d)

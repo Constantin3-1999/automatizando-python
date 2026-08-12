@@ -1,0 +1,44 @@
+amor1 = input('Digite seu nome: ')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+amor = 'eu te amo' * 100
+
+
+
+
+
+
+
+
+print(f'{amor}, giovanna') 
